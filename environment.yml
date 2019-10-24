@@ -1,0 +1,19 @@
+name: env
+
+dependencies:
+- python=3.6
+- notebook
+
+- keras
+- opencv
+- matplotlib
+- pillow
+channels:
+- default
+- conda-forge
+
+
+
+
+
+
